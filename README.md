@@ -1,16 +1,31 @@
-### Hi there 👋
+# Welcome to My GitHub Page! 
 
-<!--
-**VSUrhuel/VSUrhuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there :wave:, I'm Rhuel - a passionate data science enthusiast and a proud student at Visayas State University, currently diving deep into my second year of Computer Science. 
 
-Here are some ideas to get you started:
+## \:mortar_board: Education
+- **Visayas State University**
+  - B.S. in Computer Science, 2nd Year
+- **Tanauan National High School**
+  - SHS - STEM, With High Honors
+- **Dulag National High School**
+  - JHS - STE, With High Honors
+  
+## \:computer: Programming Languages
+- C
+- C++
+- C#
+- PHP
+- Python
+- Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## \:mag_right: Research Interests
+I love to explore and research new areas in data science and technology, always eager to learn and apply new concepts. 
+
+## \:link: Connect with Me
+- [Facebook](https://www.facebook.com/johnrhuel.laurente)
+- [Instagram](https://www.instagram.com/rhuelski29/)
+- [LinkedIn](https://www.linkedin.com/in/john-rhuel-laurente-181357248/)
+
+Feel free to connect with me on any of these platforms! 
+
+Let's collaborate and make something awesome together! 
