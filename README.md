@@ -5,10 +5,6 @@ Hi there :wave:, I'm Rhuel - a passionate data science enthusiast and a proud st
 ## \:mortar_board: Education
 - **Visayas State University**
   - B.S. in Computer Science, 2nd Year
-- **Tanauan National High School**
-  - SHS - STEM, With High Honors
-- **Dulag National High School**
-  - JHS - STE, With High Honors
   
 ## \:computer: Programming Languages
 - C
