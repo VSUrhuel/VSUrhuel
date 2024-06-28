@@ -1,10 +1,12 @@
-# Welcome to My GitHub Page! 
+![Professional Modern Technology LinkedIn Banner](https://github.com/VSUrhuel/VSUrhuel/assets/114915612/081ae17d-d558-44d6-959e-abf02926d168)
 
-Hi there :wave:, I'm Rhuel - a passionate data science enthusiast, currently diving deep into my third year of Computer Science. 
+<p align="center" style="font-size: 24px;">
+  <b>Hi there :wave:, I'm Rhuel - a passionate data science enthusiast, currently diving deep into my third year of Computer Science.</b>
+</p>
 
 ## \:mortar_board: Education
 - **Visayas State University**
-  - B.S. in Computer Science, 2nd Year
+  - B.S. in Computer Science, 3rdd Year
   
 ## 💻 Programming Languages
 ![c](https://github.com/VSUrhuel/VSUrhuel/assets/114915612/b58675b0-2cad-49a9-af54-e95ac6fd1cfe)
@@ -18,7 +20,7 @@ Hi there :wave:, I'm Rhuel - a passionate data science enthusiast, currently div
 <img width="92" alt="css3@2x" src="https://github.com/VSUrhuel/VSUrhuel/assets/114915612/c66bbab2-56d1-40e9-a120-bd30218e5238">
 <img width="87" alt="php@2x" src="https://github.com/VSUrhuel/VSUrhuel/assets/114915612/61e7f210-91bd-46f8-9e27-415bf755707f">
 
-## Tools
+## ⚙️ Tools
 ![mysql](https://github.com/VSUrhuel/VSUrhuel/assets/114915612/2653b0f8-c404-4fbf-96a6-e48a5aa30300)
 ![tailwind-css](https://github.com/VSUrhuel/VSUrhuel/assets/114915612/961f5465-13e4-44ae-b9c1-eefd4b5214d2)
 ![git](https://github.com/VSUrhuel/VSUrhuel/assets/114915612/6915680c-5cbc-431d-b869-3d8ed76eaf3d)
@@ -33,3 +35,5 @@ Hi there :wave:, I'm Rhuel - a passionate data science enthusiast, currently div
 Feel free to connect with me on any of these platforms! 
 
 Let's collaborate and make something awesome together! 
+Icons from [MikeCodesDotNET](https://github.com/MikeCodesDotNET/ColoredBadges).
+
