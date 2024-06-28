@@ -1,16 +1,29 @@
 # Welcome to My GitHub Page! 
 
-Hi there :wave:, I'm Rhuel - a passionate data science enthusiast and a proud student at Visayas State University, currently diving deep into my second year of Computer Science. 
+Hi there :wave:, I'm Rhuel - a passionate data science enthusiast, currently diving deep into my third year of Computer Science. 
 
 ## \:mortar_board: Education
 - **Visayas State University**
   - B.S. in Computer Science, 2nd Year
   
 ## 💻 Programming Languages
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![c](https://github.com/VSUrhuel/VSUrhuel/assets/114915612/b58675b0-2cad-49a9-af54-e95ac6fd1cfe)
+![c (1)](https://github.com/VSUrhuel/VSUrhuel/assets/114915612/67578d9a-45ec-41c4-b2a2-a074313b8876)
+<img width="74" alt="csharp@2x" src="https://github.com/VSUrhuel/VSUrhuel/assets/114915612/12d248f3-e770-44d9-a426-3eba5016af6d">
+<img width="126" alt="csharp_dotnet@2x" src="https://github.com/VSUrhuel/VSUrhuel/assets/114915612/071eba70-d698-48d0-b2e2-62fc4a408c82">
+<img width="87" alt="java@2x" src="https://github.com/VSUrhuel/VSUrhuel/assets/114915612/bc897e71-01cb-48d9-8b16-86e20ba0adc7">
+<img width="107" alt="python@2x" src="https://github.com/VSUrhuel/VSUrhuel/assets/114915612/0e971283-e2ba-4a3d-a27c-3cd3df988de3">
+<img width="130" alt="js@2x" src="https://github.com/VSUrhuel/VSUrhuel/assets/114915612/4cab0b62-6576-4161-917d-a41cb9ca59b6">
+<img width="100" alt="html@2x" src="https://github.com/VSUrhuel/VSUrhuel/assets/114915612/42cb4d6b-fb76-4f60-ad68-783fd7d2762d">
+<img width="92" alt="css3@2x" src="https://github.com/VSUrhuel/VSUrhuel/assets/114915612/c66bbab2-56d1-40e9-a120-bd30218e5238">
+<img width="87" alt="php@2x" src="https://github.com/VSUrhuel/VSUrhuel/assets/114915612/61e7f210-91bd-46f8-9e27-415bf755707f">
 
-## \:mag_right: Research Interests
-I love to explore and research new areas in data science and technology, always eager to learn and apply new concepts. 
+## Tools
+![mysql](https://github.com/VSUrhuel/VSUrhuel/assets/114915612/2653b0f8-c404-4fbf-96a6-e48a5aa30300)
+![tailwind-css](https://github.com/VSUrhuel/VSUrhuel/assets/114915612/961f5465-13e4-44ae-b9c1-eefd4b5214d2)
+![git](https://github.com/VSUrhuel/VSUrhuel/assets/114915612/6915680c-5cbc-431d-b869-3d8ed76eaf3d)
+<img width="151" alt="visualstudio@2x" src="https://github.com/VSUrhuel/VSUrhuel/assets/114915612/6ba81a86-f3fa-4e43-b3cb-c503d6d0fe36">
+<img width="192" alt="visualstudio_code@2x" src="https://github.com/VSUrhuel/VSUrhuel/assets/114915612/433036c0-3ee3-4bba-bb05-9275605cffde">
 
 ## :link: Connect with Me
 - [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/johnrhuel.laurente)
