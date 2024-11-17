@@ -1,39 +1,82 @@
-![Professional Modern Technology LinkedIn Banner](https://github.com/VSUrhuel/VSUrhuel/assets/114915612/081ae17d-d558-44d6-959e-abf02926d168)
+<p align="center">
+  <img align="center" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 
-<p align="center" style="font-size: 24px;">
-  <b>Hi there :wave:, I'm Rhuel - a passionate data science enthusiast, currently diving deep into my third year of Computer Science.</b>
+</p>
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
+  <div size='20px' align="center"> Hi! My name is <strong>Rhuel</strong>, thank You for taking the time to view my GitHub Profile :smile: 
+</div>
 </p>
 
-## \:mortar_board: Education
-- **Visayas State University**
-  - B.S. in Computer Science, 3rdd Year
+
+
+<h2> About Me</h2>
+
+<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- 🔭 I’m currently at my third year at VSU
   
-## 💻 Programming Languages
-![c](https://github.com/VSUrhuel/VSUrhuel/assets/114915612/b58675b0-2cad-49a9-af54-e95ac6fd1cfe)
-![c (1)](https://github.com/VSUrhuel/VSUrhuel/assets/114915612/67578d9a-45ec-41c4-b2a2-a074313b8876)
-<img width="74" alt="csharp@2x" src="https://github.com/VSUrhuel/VSUrhuel/assets/114915612/12d248f3-e770-44d9-a426-3eba5016af6d">
-<img width="126" alt="csharp_dotnet@2x" src="https://github.com/VSUrhuel/VSUrhuel/assets/114915612/071eba70-d698-48d0-b2e2-62fc4a408c82">
-<img width="87" alt="java@2x" src="https://github.com/VSUrhuel/VSUrhuel/assets/114915612/bc897e71-01cb-48d9-8b16-86e20ba0adc7">
-<img width="107" alt="python@2x" src="https://github.com/VSUrhuel/VSUrhuel/assets/114915612/0e971283-e2ba-4a3d-a27c-3cd3df988de3">
-<img width="130" alt="js@2x" src="https://github.com/VSUrhuel/VSUrhuel/assets/114915612/4cab0b62-6576-4161-917d-a41cb9ca59b6">
-<img width="100" alt="html@2x" src="https://github.com/VSUrhuel/VSUrhuel/assets/114915612/42cb4d6b-fb76-4f60-ad68-783fd7d2762d">
-<img width="92" alt="css3@2x" src="https://github.com/VSUrhuel/VSUrhuel/assets/114915612/c66bbab2-56d1-40e9-a120-bd30218e5238">
-<img width="87" alt="php@2x" src="https://github.com/VSUrhuel/VSUrhuel/assets/114915612/61e7f210-91bd-46f8-9e27-415bf755707f">
+- 🌱 I’m currently learning Web Dev and App Dev
+  
+- 👯 I’m willing to collaborate on projects
+  
+- 💬 Ask me about C, C++, Python, and Javascript
+  
+- ⚡ Everything happens for a reason! Keep going.
 
-## ⚙️ Tools
-![mysql](https://github.com/VSUrhuel/VSUrhuel/assets/114915612/2653b0f8-c404-4fbf-96a6-e48a5aa30300)
-![tailwind-css](https://github.com/VSUrhuel/VSUrhuel/assets/114915612/961f5465-13e4-44ae-b9c1-eefd4b5214d2)
-![git](https://github.com/VSUrhuel/VSUrhuel/assets/114915612/6915680c-5cbc-431d-b869-3d8ed76eaf3d)
-<img width="151" alt="visualstudio@2x" src="https://github.com/VSUrhuel/VSUrhuel/assets/114915612/6ba81a86-f3fa-4e43-b3cb-c503d6d0fe36">
-<img width="192" alt="visualstudio_code@2x" src="https://github.com/VSUrhuel/VSUrhuel/assets/114915612/433036c0-3ee3-4bba-bb05-9275605cffde">
+  
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<a href=https://github.com/VSUrhuel?tab=repositories  > <img width ='32px' src ='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/C.svg'> </a>
+<a href=https://github.com/VSUrhuel?tab=repositories > <img width ='32px' src ='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg'> </a>
+<a href=https://github.com/VSUrhuel?tab=repositories > <img width ='32px' src ='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CS.svg'> </a>
+<a href=https://github.com/VSUrhuel?tab=repositories > <img width ='32px' src ='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Light.svg'> </a>
+<a href=https://github.com/VSUrhuel?tab=repositories > <img width ='32px' src ='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Light.svg'> </a>
+<a href=https://github.com/VSUrhuel?tab=repositories> <img width ='32px' src ='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PHP-Light.svg'> </a>
+<a href=https://github.com/VSUrhuel?tab=repositories > <img width ='32px' src ='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg'> </a>
+<a href=https://github.com/VSUrhuel?tab=repositories > <img width ='32px' src ='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg'> </a>
+<a href=https://github.com/VSUrhuel?tab=repositories> <img width ='32px' src ='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg'> </a>
+<a href=https://github.com/VSUrhuel?tab=repositories > <img width ='32px' src ='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TailwindCSS-Light.svg'> </a>
+<a href=https://github.com/VSUrhuel?tab=repositories > <img width ='32px' src ='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VueJS-Light.svg'> </a>
+<a href=https://github.com/VSUrhuel?tab=repositories > <img width ='32px' src ='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Light.svg'> </a>
+<a href=https://github.com/VSUrhuel?tab=repositories > <img width ='32px' src ='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NextJS-Light.svg'> </a>
+<a href=https://github.com/VSUrhuel?tab=repositories > <img width ='32px' src ='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Flask-Light.svg'> </a>
+<a href=https://github.com/VSUrhuel?tab=repositories > <img width ='32px' src ='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Light.svg'> </a>
+<a href=https://github.com/VSUrhuel?tab=repositories > <img width ='32px' src ='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Light.svg'> </a>
+<a href=https://github.com/VSUrhuel?tab=repositories > <img width ='32px' src ='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VisualStudio-Light.svg'> </a>
+<a href=https://github.com/VSUrhuel?tab=repositories > <img width ='32px' src ='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Sublime-Light.svg'> </a>
+<a href=https://github.com/VSUrhuel?tab=repositories > <img width ='32px' src ='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/R-Light.svg'> </a>
 
-## :link: Connect with Me
-- [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/johnrhuel.laurente)
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rhuelski29/)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-rhuel-laurente-181357248/)
+
+<h2 align="left">
+  Connect with me 
+  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px">
+</h2>
+
+<p align="left">
+  <a href="https://www.facebook.com/johnrhuel.laurente">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://www.instagram.com/rhuelski29/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.linkedin.com/in/john-rhuel-laurente-181357248/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
 Feel free to connect with me on any of these platforms! 
 
-Let's collaborate and make something awesome together! 
-Icons from [MikeCodesDotNET](https://github.com/MikeCodesDotNET/ColoredBadges).
+
+
+| ![Rhuel's Github Stats](https://github-readme-stats.vercel.app/api?username=VSUrhuel&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) | ![Rhuel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VSUrhuel&theme=tokyonight&hide_border=true) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VSUrhuel&theme=tokyonight&show_icons=true&hide_border=true&layout=compact) | ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder) |
+
+<!-- Markdown -->
+
+
+
+
+Let's collaborate and make something awesome together! <br>
+Icons from [tandpfun](https://github.com/tandpfun).
 
