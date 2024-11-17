@@ -2,9 +2,9 @@
   <img align="center" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 
 </p>
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1 align="center"> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
-  <div size='20px' align="center"> Hi! My name is <strong>Rhuel</strong>, thank You for taking the time to view my GitHub Profile :smile: 
+  <div size='20px'> Hi! My name is <strong>Rhuel</strong>, thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 </p>
 
