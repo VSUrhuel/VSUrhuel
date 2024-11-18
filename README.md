@@ -47,7 +47,7 @@
 <a href=https://github.com/VSUrhuel?tab=repositories > <img width ='32px' src ='https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/R-Light.svg'> </a>
 
 
-<h2 align="left">
+<h2 align="center">
   Connect with me 
   <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px">
 </h2>
